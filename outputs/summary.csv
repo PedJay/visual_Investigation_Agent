@@ -1,0 +1,21 @@
+image,landmark,status,country,region/city,confidence,score,AI-generated %,verdict,sources
+img14.jpg,"Stone Chariot, Vittala Temple complex, Hampi",verified,India,"Hampi, Vijayanagara district, Karnataka",high,94,10,likely_real,6
+img4.jpg,"Christ the Redeemer (Cristo Redentor), Corcovado, Rio de Janeiro",verified,Brazil,Rio de Janeiro,high,95,6,likely_real,4
+img3.jpg,Mount Rushmore National Memorial,verified,United States,"Black Hills, near Keystone, South Dakota",high,96,6,likely_real,4
+img5.jpg,Palm Jumeirah,verified,United Arab Emirates,Dubai,high,96,8,likely_real,6
+img1.jpg,Statue of Liberty (Liberty Island) — as depicted; the rendering departs from the real monument in several details,inferred,United States,"New York Harbor, New York",medium,60,85,likely_ai_generated,3
+img2.jpg,— not identified —,unidentified,India,"Nashik, Maharashtra (Godavari river, Panchavati area)",low,35,12,likely_real,4
+img7.jpg,"Elizabeth Tower (Big Ben), Palace of Westminster",inferred,United Kingdom,London (Westminster),medium,70,80,likely_ai_generated,3
+img10.jpg,"Hawa Mahal (Palace of Winds), Jaipur",inferred,India,"Jaipur, Rajasthan",high,80,15,likely_real,3
+img8.jpg,Ahu Tongariki,verified,Chile,"Rapa Nui (Easter Island), Valparaíso Region",high,88,10,likely_real,5
+img9.jpg,"Taj Mahal (depicted, apparently in an idealized or synthetic rendering)",inferred,India,"Agra, Uttar Pradesh",high,88,78,likely_ai_generated,6
+img11jpg.jpg,"Giza pyramid complex (Pyramids of Menkaure, Khafre and Khufu, with Menkaure's subsidiary pyramids)",verified,Egypt,Giza (Greater Cairo),high,93,25,likely_real,4
+img16.jpg,Sydney Opera House,inferred,Australia,"Sydney, New South Wales",high,93,15,likely_real,4
+img15.jpg,Harmandir Sahib (Sri Darbar Sahib / Golden Temple),verified,India,"Amritsar, Punjab",high,94,10,likely_real,4
+img13.jpg,Eiffel Tower,verified,France,Paris,high,93,12,likely_real,5
+img17.jpg,Scott Monument,inferred,United Kingdom (Scotland),Edinburgh,high,93,8,likely_real,4
+img12.jpg,"Senbon Torii, Fushimi Inari Taisha (stylistic match only; the image itself may be synthetic)",inferred,Japan,Kyoto,medium,55,80,likely_ai_generated,4
+img18jpg.jpg,"Le Château de la Belle au Bois Dormant (Sleeping Beauty Castle), Disneyland Park, Disneyland Paris",verified,France,"Marne-la-Vallée (Île-de-France), near Paris",high,93,10,likely_real,4
+img20.jpg,Eiffel Tower (as the distant background landmark; the foreground street and building are not identified),inferred,France,Paris,medium,72,12,likely_real,3
+img21jpg.jpg,Stonehenge (depiction or lookalike),inferred,United Kingdom (England),"Wiltshire, Salisbury Plain",medium,55,78,likely_ai_generated,5
+img17.png,Taj Mahal,verified,India,"Agra, Uttar Pradesh",high,93,45,uncertain,4
